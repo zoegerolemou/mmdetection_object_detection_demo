@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000192.jpg</filename>
+	<path>images\000192.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4960</width>
+		<height>7015</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>resident_card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>591</xmin>
+			<ymin>888</ymin>
+			<xmax>2536</xmax>
+			<ymax>2117</ymax>
+		</bndbox>
+	</object>
+</annotation>

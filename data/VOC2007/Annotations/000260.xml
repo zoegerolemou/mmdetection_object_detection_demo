@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000260.jpg</filename>
+	<path>images\000260.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4960</width>
+		<height>7015</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>military_card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2303</xmin>
+			<ymin>1674</ymin>
+			<xmax>4334</xmax>
+			<ymax>2957</ymax>
+		</bndbox>
+	</object>
+</annotation>

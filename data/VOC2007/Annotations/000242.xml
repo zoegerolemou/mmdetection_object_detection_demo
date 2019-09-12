@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000242.jpg</filename>
+	<path>images\000242.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4960</width>
+		<height>7015</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>id_front</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>928</xmin>
+			<ymin>2787</ymin>
+			<xmax>3008</xmax>
+			<ymax>4171</ymax>
+		</bndbox>
+	</object>
+</annotation>

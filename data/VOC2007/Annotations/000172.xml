@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000172.jpg</filename>
+	<path>images\000172.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4960</width>
+		<height>7015</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>employee_card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>589</xmin>
+			<ymin>889</ymin>
+			<xmax>2857</xmax>
+			<ymax>2340</ymax>
+		</bndbox>
+	</object>
+</annotation>
