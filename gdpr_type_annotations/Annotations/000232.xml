@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000232.jpg</filename>
+	<path>images\000232.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4960</width>
+		<height>7015</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drivers_license</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>929</xmin>
+			<ymin>2606</ymin>
+			<xmax>2897</xmax>
+			<ymax>3843</ymax>
+		</bndbox>
+	</object>
+</annotation>

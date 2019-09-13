@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000268.jpg</filename>
+	<path>images\000268.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4960</width>
+		<height>7015</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>residence_permit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2149</xmin>
+			<ymin>1647</ymin>
+			<xmax>4389</xmax>
+			<ymax>3047</ymax>
+		</bndbox>
+	</object>
+</annotation>

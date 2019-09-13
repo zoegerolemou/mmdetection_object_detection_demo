@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000179.jpg</filename>
+	<path>images\000179.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4960</width>
+		<height>7015</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>student_card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>624</xmin>
+			<ymin>907</ymin>
+			<xmax>2472</xmax>
+			<ymax>2071</ymax>
+		</bndbox>
+	</object>
+</annotation>

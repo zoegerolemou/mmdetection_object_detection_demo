@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000338.jpg</filename>
+	<path>images\000338.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4960</width>
+		<height>7015</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>passport_front</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1089</xmin>
+			<ymin>1107</ymin>
+			<xmax>3883</xmax>
+			<ymax>2780</ymax>
+		</bndbox>
+	</object>
+</annotation>

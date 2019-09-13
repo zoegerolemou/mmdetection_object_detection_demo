@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000359.jpg</filename>
+	<path>images\000359.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4960</width>
+		<height>7015</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>passport_visas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>743</xmin>
+			<ymin>1113</ymin>
+			<xmax>4636</xmax>
+			<ymax>3713</ymax>
+		</bndbox>
+	</object>
+</annotation>
